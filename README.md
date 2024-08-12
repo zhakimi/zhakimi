@@ -1,12 +1,1 @@
-👋 Hi, I’m Zahra Hakimi
-👀 I’m interested in learning programmming languages
-🌱 I’m currently learning comptia security+
-💞️ I’m looking to collaborate on HTML, CSS, AI, Java, Python based project
-📫 How to reach me zhakimi1@asu.edu
-😄 Pronouns: She/ her
-⚡ Fun fact: I love running
-
-<!---
-zhakimi/zhakimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I’m Zahra Hakimi. I am currently expanding my expertise in programming languages and cybersecurity, with a focus on CompTIA Security+. I am interested in collaborating on projects involving HTML, CSS, AI, Java, and Python. You can reach me at zhakimi1@asu.edu. My pronouns are she/her. A fun fact about me is that I enjoy running and have participated in several marathons.
