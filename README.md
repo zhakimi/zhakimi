@@ -1,4 +1,4 @@
-👋 Hi, I’m @zhakimi
+👋 Hi, I’m Zahra Hakimi
 👀 I’m interested in learning programmming languages
 🌱 I’m currently learning comptia security+
 💞️ I’m looking to collaborate on HTML, CSS, AI, Java, Python based project
